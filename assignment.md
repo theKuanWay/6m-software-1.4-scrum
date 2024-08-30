@@ -8,7 +8,17 @@ Scenario 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
-Your answer here
+Implementing Scrum in a startup company focused on building IT infrastructure for a school can significantly enhance the team's productivity by fostering a structured yet flexible approach to project management. Scrum is an agile framework that encourages collaboration, transparency, and iterative progress, all of which are crucial for a rapidly growing organization.
+
+First, Scrum breaks down the complex task of setting up IT infrastructure into manageable, bite-sized pieces called sprints. These sprints typically last 1-4 weeks and focus on delivering a specific part of the project, allowing the team to make continuous progress and quickly address any challenges that arise. This iterative process ensures that the team can adapt to changes, such as new requirements from the school or unexpected technical issues, without losing momentum.
+
+Second, Scrum promotes regular communication through daily stand-ups, sprint reviews, and retrospectives. These meetings keep everyone aligned on the project's goals, progress, and any obstacles. By addressing issues in real-time, the team can avoid bottlenecks and keep the project on track.
+
+Furthermore, Scrum empowers the IT team by involving them in the planning and decision-making processes. Each team member has a voice in determining what can realistically be achieved in each sprint, fostering a sense of ownership and accountability. This collaborative environment not only boosts morale but also leads to higher-quality outcomes, as the team is motivated to deliver their best work.
+
+Finally, the transparency and regular feedback loops inherent in Scrum allow for continuous improvement. After each sprint, the team can reflect on what went well and what could be improved, leading to incremental enhancements in both the product and the process.
+
+In summary, implementing Scrum can help the startup's IT team deliver a robust, adaptable IT infrastructure for the school more efficiently, with higher quality and greater team satisfaction.
 ```
 
 Scenario 2:
